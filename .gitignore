@@ -29,3 +29,6 @@ tutorial/*.fls
 tags
 TAGS
 src/Version_idris.hs
+
+# Nix specific
+/idris-libs/
